@@ -1,5 +1,5 @@
 # collegeCourseworkProject
-A game I made as my coursework for A-level computer science in 2021. Documentation included.
+A game I made as my A-level computer science coursework project in 2021. Documentation included.
 
 While there are a variety of mechanics in the game that I would like to improve on,
 I am proud of this work having finished it at sixth form college during covid-19, when times weren't so easy.
